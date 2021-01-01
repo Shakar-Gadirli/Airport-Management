@@ -1,0 +1,43 @@
+[
+    {
+        "from_city":"Baku",
+        "to_city":"Kiev",
+        "departure_time":"10.12.2020 7:00",
+        "arrival_time":"10.12.2020 10:00",
+        "airplane":"Airbus",
+        "passenger_num":"120"
+    },
+    {
+        "from_city":"Kiev",
+        "to_city":"Baku",
+        "departure_time":"10.12.2020 11:00",
+        "arrival_time":"10.12.2020 14:00",
+        "airplane":"Airbus",
+        "passenger_num":"120"
+    },
+    {
+        "from_city":"Sendai",
+        "to_city":"Tokyo",
+        "departure_time":"29.12.2020 16:30",
+        "arrival_time":"29.12.2020 17:30",
+        "airplane":"Boeing 777",
+        "passenger_num":"130"
+    },
+    {
+        "from_city":"Ankara",
+        "to_city":"Pyeongchang",
+        "departure_time":"31.12.2020 15:30",
+        "arrival_time":"31.12.2020 20:30",
+        "airplane":"Boeing 777",
+        "passenger_num":"130"
+    },
+    {
+        "from_city":"Baku",
+        "to_city":"Paris",
+        "departure_time":"31.12.2020 12:30",
+        "arrival_time":"31.12.2020 16:30",
+        "airplane":"Airbus",
+        "passenger_num":"220"
+    }
+
+]
