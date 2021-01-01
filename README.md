@@ -40,7 +40,7 @@ Run server.
 ```bash
 python3 server.py
 ```
-![server][images/server.jpg]
+![server](images/server.jpg)
 
 Client can be run in two modes: admin or client.
 
@@ -48,28 +48,28 @@ Client can be run in two modes: admin or client.
 ```bash
 python3 client.py client
 ```
-![client][images/client.jpg]
+![client](images/client.jpg)
 
 **As admin:**
 ```bash
 python3 client.py admin
 ```
 
-![admin][images/admin_start.jpg]
+![admin](images/admin_start.jpg)
 
 Admin processes examples.
 
 **GET**
-![admin][images/admin_get.png]
+![admin](images/admin_get.png)
 
 **POST**
-![admim][images/admin_post.png]
+![admim](images/admin_post.png)
 
 **PUT**
-![admin][images/admin_put.png]
+![admin](images/admin_put.png)
 
 **DELETE**
-![admin][images/admin_delete.png]
+![admin](images/admin_delete.png)
 
 **END SESSION**
-![admin][images/admin_end.png]
+![admin](images/admin_end.png)
